@@ -1,0 +1,1 @@
+celery command: python -m celery -A django_celery worker -l info
